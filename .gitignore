@@ -3,3 +3,4 @@ homework/data/*
 homework/example/*
 homework/[0-9a-zA-Z-_]*example[0-9a-zA-Z-_]*
 homework/.ipynb_checkpoints
+ppt
