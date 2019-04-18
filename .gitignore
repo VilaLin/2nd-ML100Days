@@ -1,6 +1,7 @@
 answer
 homework/data/*
 homework/example/*
+homework/question/*
 homework/[0-9a-zA-Z-_]*example[0-9a-zA-Z-_]*
 homework/.ipynb_checkpoints
 ppt
